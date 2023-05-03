@@ -45,6 +45,8 @@
     "bio": "American chef and author known for her approachable and comforting recipes.",
     "numberOfRecipes": 150,
     "likes": 35000,
+    "ingredients": ["lobster", "arborio rice", "onion", "garlic", "white wine", "chicken stock", "parmesan cheese"],
+    "recipeName": "Lobster Risotto",
     "recipes": [
       {
         "recipeId": 3,
@@ -58,9 +60,9 @@
       },
       {
         "recipeId": 4,
-        "recipeName": "Lobster Risotto",
+        
         "cuisineType": "British",
-        "ingredients": ["lobster", "arborio rice", "onion", "garlic", "white wine", "chicken stock", "parmesan cheese"],
+     
         "instructions": ["Boil the lobster in salted water", "Remove meat from shells and chop into small pieces", "Cook onions and garlic in butter until soft", "Add rice and cook for 1-2 minutes", "Deglaze with white wine and add chicken stock gradually", "Stir in lobster meat and parmesan cheese", "Season with salt and pepper"],
         "servings": 4,
         "difficultyLevel": "Intermediate",
@@ -81,28 +83,8 @@
     "bio": "British chef and television personality known for his emphasis on fresh, seasonal ingredients.",
     "numberOfRecipes": 300,
     "likes": 40000,
-    "recipes": [
-      {
-        "recipeId": 5,
-        "recipeName": "Beef Wellington",
-        "cuisineType": "British",
-        "ingredients": ["beef tenderloin", "mushrooms", "shallots", "prosciutto", "puff pastry", "egg wash"],
-        "instructions": ["Season the beef with salt and pepper", "Sear beef on all sides until brown", "Chop mushrooms and shallots and cook in butter", "Roll out puff pastry and wrap beef with mushrooms, shallots, and prosciutto", "Brush pastry with egg wash", "Bake at 425°F for 20-25 minutes", "Let rest for 10 minutes before slicing"],
-        "servings": 6,
-        "difficultyLevel": "Advanced",
-        "rating": 4.6
-      },
-      {
-        "recipeId": 6,
-        "recipeName": "Lobster Risotto",
-        "cuisineType": "British",
-        "ingredients": ["lobster", "arborio rice", "onion", "garlic", "white wine", "chicken stock", "parmesan cheese"],
-        "instructions": ["Boil the lobster in salted water", "Remove meat from shells and chop into small pieces", "Cook onions and garlic in butter until soft", "Add rice and cook for 1-2 minutes", "Deglaze with white wine and add chicken stock gradually", "Stir in lobster meat and parmesan cheese", "Season with salt and pepper"],
-        "servings": 4,
-        "difficultyLevel": "Intermediate",
-        "rating": 4.8
-      }
-    ],
+    "ingredients": ["lobster", "arborio rice", "onion", "garlic", "white wine", "chicken stock", "parmesan cheese"],
+    "recipeName": "Beef Wellington",
     "description": "James Trevor Oliver MBE is a British chef and restaurateur. He is known for his emphasis on fresh, seasonal ingredients and his efforts to improve the quality of school meals in the UK. Oliver has written several cookbooks, hosted numerous television shows, and opened several restaurants in the UK and around the world.Chefs may work long hours, including evenings, weekends, and holidays. They need to have physical stamina and be able to work in a fast-paced, high-pressure environment. Good communication skills and the ability to work well as part of a team are also important for chefs.",
     "numberOfRecipesId": 300,
     "rating": 4.5
@@ -117,28 +99,8 @@
     "bio": "British chef, author, and television personality known for her indulgent, comfort food recipes.",
     "numberOfRecipes": 100,
     "likes": 20000,
-    "recipes": [
-      {
-        "recipeId": 7,
-        "recipeName": "Beef Wellington",
-        "cuisineType": "British",
-        "ingredients": ["beef tenderloin", "mushrooms", "shallots", "prosciutto", "puff pastry", "egg wash"],
-        "instructions": ["Season the beef with salt and pepper", "Sear beef on all sides until brown", "Chop mushrooms and shallots and cook in butter", "Roll out puff pastry and wrap beef with mushrooms, shallots, and prosciutto", "Brush pastry with egg wash", "Bake at 425°F for 20-25 minutes", "Let rest for 10 minutes before slicing"],
-        "servings": 6,
-        "difficultyLevel": "Advanced",
-        "rating": 4.6
-      },
-      {
-        "recipeId": 8,
-        "recipeName": "Lobster Risotto",
-        "cuisineType": "British",
-        "ingredients": ["lobster", "arborio rice", "onion", "garlic", "white wine", "chicken stock", "parmesan cheese"],
-        "instructions": ["Boil the lobster in salted water", "Remove meat from shells and chop into small pieces", "Cook onions and garlic in butter until soft", "Add rice and cook for 1-2 minutes", "Deglaze with white wine and add chicken stock gradually", "Stir in lobster meat and parmesan cheese", "Season with salt and pepper"],
-        "servings": 4,
-        "difficultyLevel": "Intermediate",
-        "rating": 4.8
-      }
-    ],
+    "ingredients": ["lobster", "arborio rice", "onion", "garlic", "white wine", "chicken stock", "parmesan cheese"],
+    "recipeName": "Beef Wellington",
     "description": "Nigella Lucy Lawson is an English food writer, journalist, and television personality. She is known for her indulgent, comfort food recipes and her relaxed, conversational style of presenting. Lawson has written several bestselling cookbooks and hosted several television shows in the UK and around the world.In addition to their cooking skills, chefs may also be responsible for creating an enjoyable dining experience for their guests, including the presentation and plating of dishes, as well as managing the overall ambiance and atmosphere of the restaurant.",
     "numberOfRecipesId": 100,
     "rating": 2.9
