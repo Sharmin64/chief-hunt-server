@@ -9,28 +9,8 @@
     "bio": "British chef and restaurateur known for his fiery temper and exceptional culinary skills.",
     "numberOfRecipes": 200,
     "likes": 50000,
-    "recipes": [
-      {
-        "recipeId": 1,
-        "recipeName": "Beef Wellington",
-        "cuisineType": "British",
-        "ingredients": ["beef tenderloin", "mushrooms", "shallots", "prosciutto", "puff pastry", "egg wash"],
-        "instructions": ["Season the beef with salt and pepper", "Sear beef on all sides until brown", "Chop mushrooms and shallots and cook in butter", "Roll out puff pastry and wrap beef with mushrooms, shallots, and prosciutto", "Brush pastry with egg wash", "Bake at 425°F for 20-25 minutes", "Let rest for 10 minutes before slicing"],
-        "servings": 6,
-        "difficultyLevel": "Advanced",
-        "rating": 4.6
-      },
-      {
-        "recipeId": 2,
-        "recipeName": "Lobster Risotto",
-        "cuisineType": "British",
-        "ingredients": ["lobster", "arborio rice", "onion", "garlic", "white wine", "chicken stock", "parmesan cheese"],
-        "instructions": ["Boil the lobster in salted water", "Remove meat from shells and chop into small pieces", "Cook onions and garlic in butter until soft", "Add rice and cook for 1-2 minutes", "Deglaze with white wine and add chicken stock gradually", "Stir in lobster meat and parmesan cheese", "Season with salt and pepper"],
-        "servings": 4,
-        "difficultyLevel": "Intermediate",
-        "rating": 4.8
-      }
-    ],
+    "ingredients": ["beef tenderloin", "mushrooms", "shallots", "prosciutto", "puff pastry", "egg wash"],
+    "recipeName": "Lobster Risotto",
     "description": "Gordon James Ramsay OBE is a British chef, restaurateur, writer, television personality and food critic. He is known for his fiery temper, strict culinary standards, and his numerous restaurants around the world. A chef is a skilled culinary professional who prepares and cooks food for restaurants, hotels, caterers, and other food service establishments. A chef's duties can include creating and designing menus, selecting and purchasing ingredients, preparing and cooking meals, managing kitchen staff, and ensuring that food quality and safety standards are met.",
     "numberOfRecipesId": 200,
     "rating": 4.9
@@ -47,28 +27,6 @@
     "likes": 35000,
     "ingredients": ["lobster", "arborio rice", "onion", "garlic", "white wine", "chicken stock", "parmesan cheese"],
     "recipeName": "Lobster Risotto",
-    "recipes": [
-      {
-        "recipeId": 3,
-        "recipeName": "Beef Wellington",
-        "cuisineType": "British",
-        "ingredients": ["beef tenderloin", "mushrooms", "shallots", "prosciutto", "puff pastry", "egg wash"],
-        "instructions": ["Season the beef with salt and pepper", "Sear beef on all sides until brown", "Chop mushrooms and shallots and cook in butter", "Roll out puff pastry and wrap beef with mushrooms, shallots, and prosciutto", "Brush pastry with egg wash", "Bake at 425°F for 20-25 minutes", "Let rest for 10 minutes before slicing"],
-        "servings": 6,
-        "difficultyLevel": "Advanced",
-        "rating": 4.6
-      },
-      {
-        "recipeId": 4,
-        
-        "cuisineType": "British",
-     
-        "instructions": ["Boil the lobster in salted water", "Remove meat from shells and chop into small pieces", "Cook onions and garlic in butter until soft", "Add rice and cook for 1-2 minutes", "Deglaze with white wine and add chicken stock gradually", "Stir in lobster meat and parmesan cheese", "Season with salt and pepper"],
-        "servings": 4,
-        "difficultyLevel": "Intermediate",
-        "rating": 4.8
-      }
-    ],
     "description": "Ina Rosenberg Garten is an American author and host of the Food Network program Barefoot Contessa, and a former staff member of the White House Office of Management and Budget. Known for her warm personality, casual approach to cooking, and use of fresh ingredients, Garten has written several cookbooks and is a frequent guest on morning talk shows and other television programs.Chefs typically have extensive knowledge and training in cooking techniques, food preparation, and kitchen management. They may specialize in a particular type of cuisine or cooking style, such as French cuisine, Italian cuisine, pastry making, or vegetarian cooking.",
     "numberOfRecipesId": 150,
     "rating": 3.9
@@ -115,28 +73,8 @@
     "bio": "American chef and restaurateur known for his bold flavors and love of grilling.",
     "numberOfRecipes": 250,
     "likes": 45000,
-    "recipes": [
-      {
-        "recipeId": 9,
-        "recipeName": "Beef Wellington",
-        "cuisineType": "British",
-        "ingredients": ["beef tenderloin", "mushrooms", "shallots", "prosciutto", "puff pastry", "egg wash"],
-        "instructions": ["Season the beef with salt and pepper", "Sear beef on all sides until brown", "Chop mushrooms and shallots and cook in butter", "Roll out puff pastry and wrap beef with mushrooms, shallots, and prosciutto", "Brush pastry with egg wash", "Bake at 425°F for 20-25 minutes", "Let rest for 10 minutes before slicing"],
-        "servings": 6,
-        "difficultyLevel": "Advanced",
-        "rating": 4.6
-      },
-      {
-        "recipeId": 10,
-        "recipeName": "Lobster Risotto",
-        "cuisineType": "British",
-        "ingredients": ["lobster", "arborio rice", "onion", "garlic", "white wine", "chicken stock", "parmesan cheese"],
-        "instructions": ["Boil the lobster in salted water", "Remove meat from shells and chop into small pieces", "Cook onions and garlic in butter until soft", "Add rice and cook for 1-2 minutes", "Deglaze with white wine and add chicken stock gradually", "Stir in lobster meat and parmesan cheese", "Season with salt and pepper"],
-        "servings": 4,
-        "difficultyLevel": "Intermediate",
-        "rating": 4.8
-      }
-    ],
+    "ingredients": ["beef tenderloin", "mushrooms", "shallots", "prosciutto", "puff pastry", "egg wash"],
+    "recipeName": "Beef Wellington",
     "description": "Robert William Flay is an American celebrity chef, restaurateur, and reality television personality. He is known for his bold flavors and love of grilling, and has written several cookbooks and hosted several television shows, including Iron Chef America and Beat Bobby Flay. A chef is a skilled culinary professional who prepares and cooks food for restaurants, hotels, caterers, and other food service establishments. A chef's duties can include creating and designing menus, selecting and purchasing ingredients, preparing and cooking meals, managing kitchen staff, and ensuring that food quality and safety standards are met. Chefs typically have extensive knowledge and training in cooking techniques, food preparation, and kitchen management. They may specialize in a particular type of cuisine or cooking style, such as French cuisine, Italian cuisine, pastry making, or vegetarian cooking. Chefs may work long hours, including evenings, weekends, and holidays. They need to have physical stamina and be able to work in a fast-paced, high-pressure environment. Good communication skills and the ability to work well as part of a team are also important for chefs. In addition to their cooking skills, chefs may also be responsible for creating an enjoyable dining experience for their guests, including the presentation and plating of dishes, as well as managing the overall ambiance and atmosphere of the restaurant.",
     "numberOfRecipesId": 250,
     "rating": 4.5
@@ -151,28 +89,8 @@
     "bio": "Israeli-British chef, restaurateur, and cookbook author known for his vegetarian and Middle Eastern-inspired dishes.",
     "numberOfRecipes": 120,
     "likes": 30000,
-    "recipes": [
-      {
-        "recipeId": 11,
-        "recipeName": "Beef Wellington",
-        "cuisineType": "British",
-        "ingredients": ["beef tenderloin", "mushrooms", "shallots", "prosciutto", "puff pastry", "egg wash"],
-        "instructions": ["Season the beef with salt and pepper", "Sear beef on all sides until brown", "Chop mushrooms and shallots and cook in butter", "Roll out puff pastry and wrap beef with mushrooms, shallots, and prosciutto", "Brush pastry with egg wash", "Bake at 425°F for 20-25 minutes", "Let rest for 10 minutes before slicing"],
-        "servings": 6,
-        "difficultyLevel": "Advanced",
-        "rating": 4.6
-      },
-      {
-        "recipeId": 12,
-        "recipeName": "Lobster Risotto",
-        "cuisineType": "British",
-        "ingredients": ["lobster", "arborio rice", "onion", "garlic", "white wine", "chicken stock", "parmesan cheese"],
-        "instructions": ["Boil the lobster in salted water", "Remove meat from shells and chop into small pieces", "Cook onions and garlic in butter until soft", "Add rice and cook for 1-2 minutes", "Deglaze with white wine and add chicken stock gradually", "Stir in lobster meat and parmesan cheese", "Season with salt and pepper"],
-        "servings": 4,
-        "difficultyLevel": "Intermediate",
-        "rating": 4.8
-      }
-    ],
+    "ingredients": ["beef tenderloin", "mushrooms", "shallots", "prosciutto", "puff pastry", "egg wash"],
+    "recipeName": "Beef Wellington",
     "description": "Yotam Assaf Ottolenghi is an Israeli-British chef, restaurateur, and food writer. He is the author of several bestselling cookbooks, including Plenty and Jerusalem, and is known for his vegetarian and Middle Eastern-inspired dishes. Ottolenghi has also written for The Guardian and hosted a television series, Mediterranean Feast A chef is a skilled culinary professional who prepares and cooks food for restaurants, hotels, caterers, and other food service establishments. A chef's duties can include creating and designing menus, selecting and purchasing ingredients, preparing and cooking meals, managing kitchen staff, and ensuring that food quality and safety standards are met. Chefs typically have extensive knowledge and training in cooking techniques, food preparation, and kitchen management. They may specialize in a particular type of cuisine or cooking style, such as French cuisine, Italian cuisine, pastry making, or vegetarian cooking. Chefs may work long hours, including evenings, weekends, and holidays. They need to have physical stamina and be able to work in a fast-paced, high-pressure environment. Good communication skills and the ability to work well as part of a team are also important for chefs. In addition to their cooking skills, chefs may also be responsible for creating an enjoyable dining experience for their guests, including the presentation and plating of dishes, as well as managing the overall ambiance and atmosphere of the restaurant..",
     "numberOfRecipesId": 120,
     "rating": 3.5
